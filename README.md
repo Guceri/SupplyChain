@@ -28,7 +28,7 @@ The triggerDelivery() function in our ItemManager.sol contract is not used in th
 
 ## Design
 
-![](public/flow.png)
+![](public/chart.png)
 
 ##
 ![](public/ui.png)
