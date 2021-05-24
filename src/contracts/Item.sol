@@ -9,7 +9,7 @@ contract Item  {
     uint public index;
     
     
-    //Set the instance of ItemManaher to parentContract (aka the address)
+    //Set the instance of ItemManager to parentContract (aka the address)
     ItemManager parentContract;
     
     constructor(ItemManager _parentContract, uint _priceInWei, uint _index) {
